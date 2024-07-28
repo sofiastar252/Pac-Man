@@ -1,2 +1,1 @@
-# Pac-Man
-A fun Pac-Man game!
+Simple 2D PacMan style game made in JavaScript
